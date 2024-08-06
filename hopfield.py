@@ -64,6 +64,9 @@ plt.title("Recalled Picture by HNN")
 plt.savefig("hopfield.png")
 plt.show()
 plt.clf()
+
+coefMatrix[:1000, :100].tofile(open("coefMatrix.txt", "w"), sep=" ")
+
 plt.imshow(coefMatrix)
 plt.title("Single Coefficient Matrix")
 plt.savefig("singleCoeffMatrix")
