@@ -2,7 +2,6 @@
 <h1 align="center">Hopfield Neural Network</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
-  <img src="https://github.com/PRASUN-SITAULA/carbonWise/assets/89672957/106f3a07-d14a-4ee9-9e0c-c8cfbc635a79">
 </p>
 
 The Hopfield neural network is a type of artificial neural network. This network structure comprises interconnected neurons, with each neuron being binary and capable of taking values of either +1 or -1. Patterns or memories are stored in the network by configuring the neuron states to represent desired patterns, and an energy function is employed to describe the network's state.Hopfield networks also provide a model for understanding human memory.
@@ -34,7 +33,3 @@ pip install -r requirements.txt
 ```bash
 python hopfield.py
 ```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
