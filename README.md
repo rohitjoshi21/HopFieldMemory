@@ -1,5 +1,5 @@
 
-<h1 align="center">Hopfield Neural Network</h1>
+<h1 align="center">Hopfield Memory/h1>
 <p align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
 </p>
@@ -21,7 +21,7 @@ https://github.com/rohitjoshi21/HopFieldMemory
 ```
 ### Go into the repository
 ```bash
-cd Hopfield-Neural-Network
+cd HopfieldMemory
 ```
 ### Install packages
 
