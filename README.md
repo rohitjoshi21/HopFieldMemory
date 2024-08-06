@@ -18,7 +18,7 @@ A simple Hopfield neural network for recalling memories. The network is initiall
 
 ### Clone this repository
 ```bash
-git clone https://github.com/CRei-7/Hopfield-Neural-Network.git
+https://github.com/rohitjoshi21/HopFieldMemory
 ```
 ### Go into the repository
 ```bash
